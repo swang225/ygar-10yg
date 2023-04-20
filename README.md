@@ -1,2 +1,5 @@
 # ygar0001
-research related to ygar dataset with 10 yoga poses
+
+paper.pdf contains the final report in latex format.
+
+notebook/* contains every notebook used to generate results and graphs.
