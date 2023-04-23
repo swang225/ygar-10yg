@@ -13,6 +13,8 @@ ygar_10yg/data - data processing codes for videos data
 ## notebook
 notebook/* contains every notebook used to train the models, generate results and graphs.
 
+0200_ygar_final_report_notebook.ipynb - final report in notebook format
+
 0001_01_dataset_easy_processing.ipynb - video to frame processing for easy data set
 0001_02_dataset_easy_filter_point2_pca.ipynb - convert easy data set frames to 20% scale down and to pca features of 256 components
 0001_03_dataset_easy_model_point2.ipynb - classic model (SVM, Logistic, GBT) train/predict with 20% scale down easy data set
@@ -82,8 +84,6 @@ notebook/* contains every notebook used to train the models, generate results an
 0104_tsne_sift.ipynb - t-SNE visualization of SIFT features
 0105_hog_pca.ipynb - HOG feature PCA eigen images visualization
 0106_background_subtraction_poc.ipynb - background subtraction figures
-
-0200_ygar_final_report_notebook.ipynb - final report in notebook format
 
 
 
