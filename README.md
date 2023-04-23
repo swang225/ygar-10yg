@@ -1,7 +1,9 @@
 # ygar0001
 
+## final_report.pdf
 final_report.pdf contains the final report in latex format.
 
+## notebook
 notebook/* contains every notebook used to train the models, generate results and graphs.
 
 0001_01_dataset_easy_processing.ipynb - video to frame processing for easy data set
