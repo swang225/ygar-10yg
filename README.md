@@ -1,7 +1,14 @@
 # ygar0001
 
-## final_report.pdf
+## final report
 final_report.pdf contains the final report in latex format.
+
+## presentation
+presentation.pdf contains the presenation slides in pdf format.
+
+## source code (besides notebooks)
+ygar_10yg/common - common utilities shared by many notebooks
+ygar_10yg/data - data processing codes for videos data
 
 ## notebook
 notebook/* contains every notebook used to train the models, generate results and graphs.
