@@ -1,4 +1,4 @@
-# ygar0001
+# ygar
 
 ## final report
 final_report.pdf contains the final report in latex format.
