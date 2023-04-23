@@ -72,7 +72,9 @@ notebook/* contains every notebook used to train the models, generate results an
 0103_cnn_yg_ar_torch.ipynb - pytorch version of the CNN model
 0104_tsne_sift.ipynb - t-SNE visualization of SIFT features
 0105_hog_pca.ipynb - HOG feature PCA eigen images visualization
+0106_background_subtraction_poc.ipynb - background subtraction figures
 
+0200_ygar_final_report_notebook.ipynb - final report in notebook format
 
 
 
